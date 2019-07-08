@@ -1,0 +1,70 @@
+
+/**********************TAG SELECTORS****************************************/
+
+body {
+  background-color: #e3e3e3;
+}
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f6f5f5;
+  border-width: 7px;
+  width: 60px;
+}
+
+
+h1 {
+  color: #048998;
+  text-align: center;
+}
+
+h2 {
+  font-size: 50px;
+  color: #048998;
+  text-align: center;
+}
+
+h3 {
+  color: #048998;
+  text-align: center;
+}
+
+h4 {
+  color: #048998;
+  text-align: center;
+}
+
+a:link {
+  color: #3bb4c1;
+}
+
+a:visited {
+  color: #3bb4c1;
+}
+
+/**********************CLASS SELECTORS***************************************/
+.header {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 52%;
+}
+.skyline{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 52%;
+}
+
+.top {
+  background-color: #e3e3e3;
+}
+
+.bottom {
+  background-color: #f6f5f5;
+}
+
+
+/**********************ID SELECTORS***************************************/
